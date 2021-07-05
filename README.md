@@ -14,7 +14,7 @@
 ### 5. income(type: numerical) -> Income in numbers
 ### 6. debtinc(type: numerical) -> Debt Income in numbers
 ### 7. creddebt(type: numerical) -> Debt to Credit ratio
-### 8. othdebt(type: numerical) -> Any other debts -->
+### 8. othdebt(type: numerical) -> Any other debts
 
 ### Dependent Variable(type: categorical) - default -> 0 = No, 1 = Yes
 ### Source Code used in the Project is both Python and R. It’s important to install and load essential libraries/packages before running the code. Therefore, just install the following libraries/packages before running the code.
